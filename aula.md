@@ -17,3 +17,7 @@ estrutura de repetição
 Coleta de dados
 Processo de dados
 Apresentar os dados
+**tipos de dados**
+strings (Textos)
+Numbers 2 1.4
+escopos e variáveis
