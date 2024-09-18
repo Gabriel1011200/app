@@ -1,7 +1,15 @@
-//hello world!
-const mensage = "hello world!"
-{
-    const mensage = "ola eu"
-    console.log;{mensage};
+//awrrays, objetos
+let meta = {
+    value: "ler um livro por mês",
+    checked: false,
+    log: {info}  (
+        console.log (info)
+    
+    )                                    
 }
-console.log;{mensage};
+
+meta.log(meta.value)
+
+//function //arrow function
+const criarMeta = () => {}
+function criarMeta() {}

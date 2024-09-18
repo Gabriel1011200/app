@@ -17,7 +17,15 @@ estrutura de repetição
 Coleta de dados
 Processo de dados
 Apresentar os dados
+
+**escopos e variáveis**
+
+Variáveis globais e loais
+constantes
+
 **tipos de dados**
 strings (Textos)
 Numbers 2 1.4
-escopos e variáveis
+Boolean: True or false
+**operadores**
+operadores de distribuição de valor
