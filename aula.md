@@ -53,3 +53,6 @@ acesso a propriedade de objetos (v)
 criar(v)
 executar(v)
 arrow function/ named function(v)
+
+**estrutura de repetição**
+-while (v)
