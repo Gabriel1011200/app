@@ -34,8 +34,9 @@ Boolean: True or false(v)
 
 **operadores**
 
-operadores de atribuição de valor (v)
-operadores de contatenação (V)
+operadores de atribuição de valor: = (v)
+operadores de contatenação: = (V)
+operadores de comparação: ==, !=, <=, >=, <>
 
 **estrutura de dados**
 
@@ -61,6 +62,7 @@ arrow function/ named function(v)
 **condicionais**
 
 -switch(v)
+-if/else(v)
 
 **Modulos em nodejs**
 
