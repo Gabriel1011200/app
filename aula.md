@@ -55,4 +55,9 @@ executar(v)
 arrow function/ named function(v)
 
 **estrutura de repetição**
+
 -while (v)
+
+**condicionais**
+
+-switch(v)
