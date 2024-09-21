@@ -61,3 +61,12 @@ arrow function/ named function(v)
 **condicionais**
 
 -switch(v)
+
+**Modulos em nodejs**
+
+importação de modulos
+Biblioteca "inquirer" para criar prompts interativos
+
+**programação assíncrona e promessas**
+
+ utilização de funções assícronas(await/async)
