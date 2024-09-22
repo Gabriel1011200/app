@@ -43,6 +43,7 @@ operadores de comparação: ==, !=, <=, >=, <>
 **arrays**
 
 uma lista que há qualquer tipo de dado (v)
+métodos de awrray: push, find, forEach,
 
 **objetos**
 
