@@ -37,13 +37,14 @@ Boolean: True or false(v)
 operadores de atribuição de valor: = (v)
 operadores de contatenação: = (V)
 operadores de comparação: ==, !=, <=, >=, <>
+spread operator: ...
 
 **estrutura de dados**
 
 **arrays**
 
 uma lista que há qualquer tipo de dado (v)
-métodos de awrray: push, find, forEach,
+métodos de awrray: push, [find, forEach, fillter]: HOF => higher order functions
 
 **objetos**
 
