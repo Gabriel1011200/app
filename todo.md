@@ -3,5 +3,5 @@
    -[+]metas ralizadas
    -[+]metas abertas 
 -[+]marcar/desmarcar metas realizadas
-remover metas 
-sistema de mensagem
+-[+]remover metas 
+-[+]sistema de mensagem
